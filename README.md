@@ -51,7 +51,7 @@
 ## 📫 İletişim
 - 📧 **hacalogluomer@hotmail.com**  
 - 🌐 [GitHub](https://github.com/arbiter53)  
-- 💼 LinkedIn: *(ekleyebilirsin)*  
+- 💼 LinkedIn: (https://www.linkedin.com/in/topcuomer/)  
 
 ---
 
