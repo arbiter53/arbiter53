@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Ömer%20Topçu&fontSize=60&fontAlignY=35&desc=Software%20Engineer%20%7C%20Avant-Garde%20UI%20%7C%20%20Full-stack&descAlignY=55&descAlign=50" />
 
   <p align="center">
-    <i>Diploma değil, tutku önemli. Sıfırdan bir şeyler inşa etmeyi ve 'çalışmaz' denileni oldurmayı seven bir mühendis.</i>
+    <i>Diploma değil, tutku önemli. Sıfırdan bir şeyler inşa etmeyi ve 'çalışmaz' denileni oldurmayı seven bir geliştirici.</i>
   </p>
 
   <p align="center">
